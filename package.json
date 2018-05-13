@@ -1,0 +1,26 @@
+{
+  "name": "promise_exercise",
+  "version": "1.0.0",
+  "description": "DC exercises for JS promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziqingW/promise_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziqingW/promise_exercise/issues"
+  },
+  "homepage": "https://github.com/ziqingW/promise_exercise#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "pg-promise": "^8.4.4",
+    "prompt-promise": "^1.0.3",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
