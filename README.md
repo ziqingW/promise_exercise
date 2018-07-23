@@ -1,2 +1,3 @@
 # promise_exercise
-DC exercises for JS promise
+
+Basic exercises for JavaScript promise from DigitalCrafts class
